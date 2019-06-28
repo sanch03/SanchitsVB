@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb

@@ -1,0 +1,12 @@
+C:\Users\sanch\source\repos\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\sanch\source\repos\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\sanch\source\repos\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\sanch\source\repos\Hello\Hello\bin\Debug\Hello.xml
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\First Project.vbprojAssemblyReference.cache
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\Hello.Form1.resources
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\Hello.Resources.resources
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\First Project.vbproj.GenerateResource.cache
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\First Project.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\Hello.xml
+C:\Users\sanch\source\repos\Hello\Hello\obj\Debug\Hello.pdb

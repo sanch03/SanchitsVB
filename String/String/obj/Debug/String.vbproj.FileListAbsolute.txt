@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\bin\Debug\String.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\bin\Debug\String.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\bin\Debug\String.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\bin\Debug\String.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\String\String\obj\Debug\String.pdb

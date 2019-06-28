@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\bin\Debug\Picture App.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\bin\Debug\Picture App.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\bin\Debug\Picture App.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\bin\Debug\Picture App.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture_App.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture_App.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.vbprojAssemblyReference.cache

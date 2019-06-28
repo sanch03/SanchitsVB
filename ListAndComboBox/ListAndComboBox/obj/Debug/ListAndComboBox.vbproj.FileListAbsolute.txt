@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\bin\Debug\ListAndComboBox.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\bin\Debug\ListAndComboBox.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\bin\Debug\ListAndComboBox.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\bin\Debug\ListAndComboBox.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\ListAndComboBox\ListAndComboBox\obj\Debug\ListAndComboBox.pdb

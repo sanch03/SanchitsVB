@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\bin\Debug\Lucky Number.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\bin\Debug\Lucky Number.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.pdb

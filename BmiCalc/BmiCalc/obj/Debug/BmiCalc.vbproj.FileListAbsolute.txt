@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\bin\Debug\BmiCalc.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\bin\Debug\BmiCalc.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.BMICalc.resources

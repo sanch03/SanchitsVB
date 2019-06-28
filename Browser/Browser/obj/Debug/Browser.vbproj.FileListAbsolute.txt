@@ -1,0 +1,12 @@
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\bin\Debug\Browser.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.vbprojAssemblyReference.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.Resources.resources
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.vbproj.GenerateResource.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.xml
+C:\Users\sanch\Desktop\School\Computing\Visual Basic\Browser\Browser\obj\Debug\Browser.pdb
