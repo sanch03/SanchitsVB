@@ -1,13 +1,11 @@
 ﻿Public Class Form1
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
-        MsgBox("Data Source: https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth
-Images:
-https://en.wikipedia.org/wiki/Mount_Everest
-https://en.wikipedia.org/wiki/K2
-https://en.wikipedia.org/wiki/Kangchenjunga
-https://en.wikipedia.org/wiki/Lhotse
-https://en.wikipedia.org/wiki/Makalu")
+        Dim oForm As Form2
+        oForm = New Form2()
+        oForm.Show()
+        oForm = Nothing
+
     End Sub
 
     Private Sub Btn1_Click(sender As Object, e As EventArgs) Handles btn1.Click
