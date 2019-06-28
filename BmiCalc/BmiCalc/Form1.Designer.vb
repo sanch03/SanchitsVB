@@ -69,7 +69,7 @@ Partial Class BMICalc
         Me.btncalc.Name = "btncalc"
         Me.btncalc.Size = New System.Drawing.Size(230, 48)
         Me.btncalc.TabIndex = 3
-        Me.btncalc.Text = "Calculate"
+        Me.btncalc.Text = "Calculate BMI"
         Me.btncalc.UseVisualStyleBackColor = False
         '
         'txthei
