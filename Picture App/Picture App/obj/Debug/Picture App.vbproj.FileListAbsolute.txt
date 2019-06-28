@@ -10,3 +10,13 @@ C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.xml
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.pdb
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Picture App\Picture App\obj\Debug\Picture App.vbprojAssemblyReference.cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\bin\Debug\Picture App.exe.config
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\bin\Debug\Picture App.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\bin\Debug\Picture App.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\bin\Debug\Picture App.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture_App.Form1.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture_App.Resources.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.vbproj.GenerateResource.Cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.pdb

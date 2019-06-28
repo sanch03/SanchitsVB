@@ -25,3 +25,17 @@ C:\Users\sanch\Desktop\School\Computing\Visual Basic\sum\v2\bin\Debug\v2.exe.man
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\sum\v2\bin\Debug\v2.application
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\sum\v2\obj\Debug\v2.exe.manifest
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\sum\v2\obj\Debug\v2.application
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.exe.config
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.exe.manifest
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.application
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\bin\Debug\v2.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.sum.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.Resources.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\sum.vbproj.GenerateResource.Cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.exe.manifest
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.application
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\sum\v2\obj\Debug\v2.pdb

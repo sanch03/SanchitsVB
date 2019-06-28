@@ -10,3 +10,13 @@ C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\o
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.exe
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.xml
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\Lucky Number\Lucky Number\obj\Debug\Lucky Number.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe.config
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\bin\Debug\Lucky Number.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\bin\Debug\Lucky Number.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\bin\Debug\Lucky Number.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Form1.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky_Number.Resources.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky Number.vbproj.GenerateResource.Cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky Number.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky Number.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Lucky Number\Lucky Number\obj\Debug\Lucky Number.pdb

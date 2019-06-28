@@ -10,3 +10,13 @@ C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\B
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.xml
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.pdb
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\BmiCalc\BmiCalc\obj\Debug\BmiCalc.BMICalc.resources
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe.config
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\bin\Debug\BmiCalc.exe
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\bin\Debug\BmiCalc.pdb
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\bin\Debug\BmiCalc.xml
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.BMICalc.resources
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.Resources.resources
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.vbproj.GenerateResource.cache
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.exe
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.xml
+C:\Users\sanch\Source\Repos\sanchits2003\SanchitsVB\BmiCalc\BmiCalc\obj\Debug\BmiCalc.pdb

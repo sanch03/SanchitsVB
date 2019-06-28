@@ -10,3 +10,14 @@ C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\Advanced
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.xml
 C:\Users\sanch\Desktop\School\Computing\Visual Basic\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Resources.resources
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.vbproj.GenerateResource.Cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.xml
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
