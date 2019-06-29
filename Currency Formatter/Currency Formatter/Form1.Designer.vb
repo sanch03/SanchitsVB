@@ -59,6 +59,7 @@ Partial Class Form1
         '
         Me.TextBox2.Location = New System.Drawing.Point(112, 64)
         Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.ReadOnly = True
         Me.TextBox2.Size = New System.Drawing.Size(100, 20)
         Me.TextBox2.TabIndex = 3
         '
