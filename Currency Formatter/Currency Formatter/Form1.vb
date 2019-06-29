@@ -1,4 +1,9 @@
 ﻿Public Class Form1
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.Opacity = 0.9
+
+    End Sub
+
     Private Sub Button1_Click(sender As Object, e As EventArgs)
         TextBox2.Text = FormatCurrency(TextBox1.Text, , , TriState.True, TriState.True)
     End Sub
