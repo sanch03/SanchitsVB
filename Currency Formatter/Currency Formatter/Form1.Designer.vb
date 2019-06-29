@@ -52,7 +52,7 @@ Partial Class Form1
         '
         Me.TextBox1.Location = New System.Drawing.Point(112, 24)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox1.Size = New System.Drawing.Size(240, 20)
         Me.TextBox1.TabIndex = 2
         '
         'TextBox2
@@ -60,20 +60,20 @@ Partial Class Form1
         Me.TextBox2.Location = New System.Drawing.Point(112, 64)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.ReadOnly = True
-        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox2.Size = New System.Drawing.Size(240, 20)
         Me.TextBox2.TabIndex = 3
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(252, 128)
+        Me.ClientSize = New System.Drawing.Size(377, 128)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Currency Formatter"
+        Me.Text = "Currency Formatter (By Sanchit)"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

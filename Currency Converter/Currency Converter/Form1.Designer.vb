@@ -353,7 +353,7 @@ Partial Class Form1
         Me.Controls.Add(Me.txtaud)
         Me.Controls.Add(Me.btnclear)
         Me.Name = "Form1"
-        Me.Text = "Currency Converter"
+        Me.Text = "Currency Converter (By Sanchit)"
         CType(Me.pbau, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.pbus, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.pbbrit, System.ComponentModel.ISupportInitialize).EndInit()
