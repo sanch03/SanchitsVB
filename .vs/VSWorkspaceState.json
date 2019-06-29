@@ -3,9 +3,9 @@
     "",
     "\\Currency Converter",
     "\\Currency Converter\\Currency Converter",
-    "\\Currency Formatter",
-    "\\Currency Formatter\\Currency Formatter"
+    "\\Currency Formatter\\Currency Formatter",
+    "\\Weather\\Weather"
   ],
-  "SelectedNode": "\\Currency Converter\\Currency Converter\\Form1.vb",
+  "SelectedNode": "\\Currency Converter\\Currency Converter.sln",
   "PreviewInSolutionExplorer": false
 }
