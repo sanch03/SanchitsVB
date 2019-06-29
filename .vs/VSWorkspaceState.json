@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Currency Converter",
+    "\\Currency Converter\\Currency Converter",
     "\\Currency Formatter",
     "\\Currency Formatter\\Currency Formatter"
   ],
-  "SelectedNode": "\\Currency Formatter\\Currency Formatter\\Form1.vb",
+  "SelectedNode": "\\Currency Converter\\Currency Converter\\Form1.vb",
   "PreviewInSolutionExplorer": false
 }
