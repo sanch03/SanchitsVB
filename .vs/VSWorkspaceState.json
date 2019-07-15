@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Currency Converter",
-    "\\Currency Converter\\Currency Converter",
-    "\\Currency Formatter\\Currency Formatter",
-    "\\Weather\\Weather"
+    "\\Currency Converter\\Currency Converter"
   ],
   "SelectedNode": "\\Currency Converter\\Currency Converter.sln",
   "PreviewInSolutionExplorer": false
