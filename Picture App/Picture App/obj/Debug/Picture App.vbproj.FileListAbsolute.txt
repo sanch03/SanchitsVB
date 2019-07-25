@@ -20,3 +20,5 @@ C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\
 C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.exe
 C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.xml
 C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.pdb
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.vbprojAssemblyReference.cache
+C:\Users\sanch\source\repos\sanchits2003\SanchitsVB\Picture App\Picture App\obj\Debug\Picture App.vbproj.CoreCompileInputs.cache
